@@ -9,6 +9,7 @@ To install the requirements using pip, run the following at the command-line:
 ```
 pip install -r requirements.txt
 ```
+## Getting the map
 [Click here to access the ploted map](https://drive.google.com/open?id=1sAoTeVtDNRGoZuJNBxYUs1w3FX7VXEat&usp=sharing)
 
 ## Creating a map on GoogleMaps
