@@ -16,3 +16,6 @@ pip install -r requirements.txt
 * Maps --> your places --> maps --> create map
 * Import the file [restaurants.csv](restaurants.csv)
 * The rest is self-explanatory
+## Screenshot
+### Map plotted on GoogleMaps
+![map](porto.png)
