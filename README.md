@@ -15,7 +15,7 @@ pip install -r requirements.txt
 ## Creating a map on GoogleMaps
 * Sign in to your Google account
 * Maps --> your places --> maps --> create map
-* Import the file [restaurants.csv](restaurants.csv)
+* Import the file [restaurants_porto.csv](restaurants_porto.csv)
 * The rest is self-explanatory
 ## Screenshot
 ### Map plotted on GoogleMaps
